@@ -1,0 +1,19 @@
+$color-logo-gradient : linear-gradient(90deg, rgba(37,67,142,1) 0%, rgba(175,85,155,1) 100%);
+$color-black-gradient : linear-gradient(0deg, rgba(0,0,0,0.75) 50%, rgba(0,0,0,0) 100%);
+
+@mixin shadow {
+    -webkit-box-shadow: 1px 1px 13px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 1px 13px 0px rgba(0,0,0,0.75);
+box-shadow: 1px 1px 13px 0px rgba(0,0,0,0.75);
+}
+
+$white : #ffffff;
+$black : #333333;
+$soft-grey : #b1b1b1;
+$main-blue : #25438e;
+$main-fuschia : #af559b;
+$red : #eb5757;
+$gold : #f2c94c;
+$orange : #f4992d;
+$blue : #7cafc4;
+$green : #93c992;

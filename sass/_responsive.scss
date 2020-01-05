@@ -1,0 +1,49 @@
+@media screen and (min-width: 576px){
+    .role, .aboutus-intro-content, .team, .aboutus-end--content {
+        width: 320px;
+    }
+}
+@media screen and (min-width: 768px){
+    .role, .aboutus-intro-content, .team, .aboutus-end--content {
+        width: 576px;
+    }
+}
+@media screen and (min-width: 992px){
+    .role, .aboutus-intro-content, .team, .aboutus-end--content {
+        width: 768px;
+    }
+}
+@media screen and (min-width: 1200px){
+    .role, .aboutus-intro-content, .team, .aboutus-end--content {
+        width: 992px;
+    }
+    
+    main{
+        
+    bottom: 200px;
+    margin-bottom: -200px;
+    }
+}
+@media screen and (min-width: 1920px){
+    html {
+        font-size: 20px;
+    }
+    
+    .index {
+        .intro{
+            &-header {
+                &--logo {
+                    width: 268px;
+                }
+            }
+        }
+    }
+    
+    .role, .aboutus-intro-content, .team, .aboutus-end--content {
+        width: 1200px;
+    }
+    
+    .header {
+        height: 50vh;
+    }
+}

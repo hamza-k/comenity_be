@@ -1,0 +1,944 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comenity-nl\n"
+"POT-Creation-Date: 2018-04-05 22:36+0200\n"
+"PO-Revision-Date: 2018-04-05 22:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: locale\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: aboutus.php:7 include/menu.php:7
+msgid "À propos de nous"
+msgstr "Over ons"
+
+#: aboutus.php:16
+msgid "Qui sommes-nous ?"
+msgstr "Over ons"
+
+#: aboutus.php:17
+msgid ""
+"Comenity est un plateforme belge composé d'étudiants, mais aussi de tuteurs, "
+"étudiants ou non. Leurs buts respectifs est de réussir dans leurs études et "
+"d'accompagner les étudiants dans leurs projets d'études. Comenity veut "
+"communiquer l'entraide."
+msgstr ""
+"Comenity is een Belgisch platform dat bestaat uit studenten, maar ook "
+"tutors, studenten of niet. Hun respectieve doelen zijn om te slagen in hun "
+"studie en om studenten te ondersteunen bij hun studie. Comenity wil de "
+"wederzijdse hulp communiceren."
+
+#: aboutus.php:22
+msgid "Notre mission"
+msgstr "Onze missie"
+
+#: aboutus.php:26
+msgid "La réussite"
+msgstr "Success"
+
+#: aboutus.php:27
+msgid ""
+"La raison d'exister de Comenity est de renforcer la réussite des étudiants "
+"dans leurs projets d'études."
+msgstr ""
+"Het doel van Comenity is het studentenucces in hun studie te versterken."
+
+#: aboutus.php:31
+msgid "La solidarité"
+msgstr "Solidariteit"
+
+#: aboutus.php:32
+msgid ""
+"Le partage de savoir, de connaissance et de technique est l'un des plus "
+"grands moyens d'atteindre ses objectifs, via le tutorat."
+msgstr ""
+"Het delen van kennis, kennis en techniek is een van de beste manieren om je "
+"doelen te bereiken door middel van tutoring."
+
+#: aboutus.php:36
+msgid "La liaison"
+msgstr "De verbinding"
+
+#: aboutus.php:37
+msgid ""
+"Comenity a pour but la liaison et donc la fondation d'une communauté "
+"d'étudiants souhaitant réussir dans leurs projets de vie."
+msgstr ""
+"Comenity wil verbinden en zo een gemeenschap van studenten vinden die willen "
+"slagen in hun levensprojecten."
+
+#: aboutus.php:43
+msgid "Notre équipe"
+msgstr "Ons team"
+
+#: aboutus.php:44
+msgid ""
+"L'équipe de Comenity est essentiellement composé de quatres jeunes "
+"entrepreneurs qui souhaite améliorer la société par le biais d'études. Leurs "
+"envies de progrès dans la société pour chacun est le pourquoi de leurs "
+"aventures chez Comenity."
+msgstr ""
+"Het Comenity-team bestaat hoofdzakelijk uit vier jonge ondernemers die de "
+"maatschappij willen verbeteren door middel van studies. Hun verlangen naar "
+"vooruitgang in de maatschappij voor iedereen is de reden voor hun avonturen "
+"bij Comenity."
+
+#: aboutus.php:54
+msgid "Tu sais tout !"
+msgstr "Je weet alles!"
+
+#: aboutus.php:55
+msgid ""
+"L'équipe de Comenity espère que le message que nous essayons de vous "
+"apporter concernant notre rôle et notre ambition soit clair, et que nous "
+"vous avons convaincu un minimum pour intégrer la communauté de Comenity. Si "
+"oui, inscrivez vous: c'est gratuit !"
+msgstr ""
+"Het Comenity-team hoopt dat de boodschap die we u proberen te brengen over "
+"onze rol en ambitie duidelijk is, en dat we u een minimum hebben overtuigd "
+"om lid te worden van de Comenity-community. Zo ja, registreer: het is gratis!"
+
+#: aboutus.php:56
+msgid "Deviens tuteur dès aujourd’hui"
+msgstr "Word vandaag nog een tutor"
+
+#: cgu.php:7
+msgid "Condition général d'utilisation"
+msgstr "Algemene staat van gebruik"
+
+#: cgu.php:17 include/menu.php:17
+msgid "Mentions légales"
+msgstr "Juridische informatie"
+
+#: cgu.php:19
+msgid "Table de matière"
+msgstr "Inhoudsopgave"
+
+#: cgu.php:21 cgu.php:31 profil.php:39
+msgid "Introduction"
+msgstr "Introductie"
+
+#: cgu.php:22
+msgid "Condition générale d'utilisation"
+msgstr "Algemene staat van gebruik"
+
+#: cgu.php:23
+msgid "Description du site"
+msgstr "Beschrijving van de site"
+
+#: cgu.php:24 cgu.php:52
+msgid "Dépots d'annonce"
+msgstr "Ad-stortingen"
+
+#: cgu.php:25
+msgid "Confiance/sécurité"
+msgstr "Veiligheid"
+
+#: cgu.php:26 cgu.php:63
+msgid "Certification scolaire"
+msgstr "School certificering"
+
+#: cgu.php:27
+msgid "Tableau de bord"
+msgstr "Dashboard"
+
+#: cgu.php:32
+msgid ""
+"En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la "
+"confiance dans l'économie numérique, il est précisé aux utilisateurs du site "
+"www.comenity.be l'identité des différents intervenants dans le cadre de sa "
+"réalisation et de son suivi :"
+msgstr ""
+"Op grond van artikel 6 van wet nr. 2004-575 van 21 juni 2004 over vertrouwen "
+"in de digitale economie, is het voor gebruikers van de site www.comenity.be "
+"duidelijk wat de identiteit is van de verschillende belanghebbenden in de "
+"context van de realisatie en de follow-up ervan:"
+
+#: cgu.php:33
+msgid "Propriétaire"
+msgstr "Eigenaar"
+
+#: cgu.php:34
+msgid "Créateur"
+msgstr "Zakelijke maker"
+
+#: cgu.php:35
+msgid "Responsable publication"
+msgstr "Publicatie Manager"
+
+#: cgu.php:35
+msgid ""
+"Le responsable publication est une personne physique ou une personne morale."
+msgstr "De publicatie manager is een natuurlijk persoon of een rechtspersoon."
+
+#: cgu.php:36
+msgid "Webmaster"
+msgstr "Webmaster"
+
+#: cgu.php:37
+msgid "Hébergeur"
+msgstr "Gastheer"
+
+#: cgu.php:37
+msgid "Crédits"
+msgstr "Credits"
+
+#: cgu.php:37
+msgid "et"
+msgstr "en"
+
+#: cgu.php:40
+msgid "Conditions générales d'utilisation"
+msgstr "Algemene staten van gebruik"
+
+#: cgu.php:41
+msgid ""
+"L’utilisation du site www.comenity.be implique l’acceptation pleine et "
+"entière des conditions générales d’utilisation ci-après décrites. Ces "
+"conditions d’utilisation sont susceptibles d’être modifiées ou complétées à "
+"tout moment, les utilisateurs du site www.comenity.be sont donc invités à "
+"les consulter de manière régulière."
+msgstr ""
+"Het gebruik van de site www.comenity.be impliceert de volledige acceptatie "
+"van de hieronder beschreven algemene voorwaarden. Deze gebruiksvoorwaarden "
+"kunnen op elk moment worden gewijzigd of aangevuld, gebruikers van de site "
+"www.comenity.be worden daarom uitgenodigd om ze regelmatig te raadplegen."
+
+#: cgu.php:42
+msgid ""
+"Ce site est normalement accessible à tout moment aux utilisateurs. Une "
+"interruption pour raison de maintenance technique peut être toutefois "
+"décidée par Hamza Khadri, qui s’efforcera alors de communiquer préalablement "
+"aux utilisateurs les dates et heures de l’intervention."
+msgstr ""
+"Deze site is op elk moment normaal toegankelijk voor gebruikers. Een "
+"onderbreking als gevolg van technisch onderhoud kan echter worden beslist "
+"door Hamza Khadri, die vervolgens tracht de gebruikers de data en tijden van "
+"de interventie te communiceren."
+
+#: cgu.php:43
+msgid ""
+"Le site www.comenity.be est mis à jour régulièrement par Jean Twijrel. De la "
+"même façon, les mentions légales peuvent être modifiées à tout moment : "
+"elles s’imposent néanmoins à l’utilisateur qui est invité à s’y référer le "
+"plus souvent possible afin d’en prendre connaissance."
+msgstr ""
+"De website www.comenity.be wordt regelmatig bijgewerkt door Jean Twijrel. Op "
+"dezelfde manier kunnen de wettelijke kennisgevingen op elk moment worden "
+"gewijzigd: zij leggen zichzelf echter op aan de gebruiker die wordt "
+"uitgenodigd er zo vaak mogelijk naar te verwijzen om er kennis van te nemen."
+
+#: cgu.php:46
+msgid "Description du Site"
+msgstr "Beschrijving van de site"
+
+#: cgu.php:47
+msgid ""
+"Le site www.comenity.be a pour objet de fournir une information concernant "
+"l’ensemble des activités de la société."
+msgstr ""
+"Het doel van de website www.comenity.be is om informatie te geven over alle "
+"activiteiten van het bedrijf."
+
+#: cgu.php:48
+msgid ""
+"Hamza Khadri s’efforce de fournir sur le site www.comenity.be des "
+"informations aussi précises que possible. Toutefois, il ne pourra être tenue "
+"responsable des omissions, des inexactitudes et des carences dans la mise à "
+"jour, qu’elles soient de son fait ou du fait des tiers partenaires qui lui "
+"fournissent ces informations."
+msgstr ""
+"Hamza Khadri streeft ernaar om informatie op www.comenity.be zo nauwkeurig "
+"mogelijk te verstrekken. Hij kan echter niet verantwoordelijk worden gesteld "
+"voor weglatingen, onjuistheden en tekortkomingen in de update, ongeacht of "
+"deze door hem of de externe partners zijn verstrekt."
+
+#: cgu.php:49
+msgid ""
+"Tous les informations indiquées sur le site www.comenity.be sont données à "
+"titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les "
+"renseignements figurant sur le site www.comenity.be ne sont pas exhaustifs. "
+"Ils sont donnés sous réserve de modifications ayant été apportées depuis "
+"leur mise en ligne."
+msgstr ""
+"Alle informatie vermeld op de site www.comenity.be wordt gegeven als een "
+"indicatie en zal waarschijnlijk evolueren. Bovendien is de informatie op de "
+"website www.comenity.be niet uitputtend. Ze worden onderhevig aan "
+"wijzigingen nadat ze online zijn gegaan."
+
+#: cgu.php:53
+msgid "Le site utilise la technologie JavaScript."
+msgstr "De site maakt gebruik van JavaScript-technologie."
+
+#: cgu.php:54
+msgid ""
+"Le site Internet ne pourra être tenu responsable de dommages matériels liés "
+"à l’utilisation du site. De plus, l’utilisateur du site s’engage à accéder "
+"au site en utilisant un matériel récent, ne contenant pas de virus et avec "
+"un navigateur de dernière génération mis-à-jour."
+msgstr ""
+"De website kan niet aansprakelijk worden gesteld voor materiële schade die "
+"verband houdt met het gebruik van de site. Bovendien stemt de gebruiker van "
+"de site ermee in om toegang te krijgen tot de site met behulp van recente "
+"apparatuur, die geen virussen bevat en met een browser van de laatste "
+"generatie die up-to-date is."
+
+#: cgu.php:57
+msgid "Confiance/Sécurité"
+msgstr "Veiligheid"
+
+#: cgu.php:58
+msgid ""
+"Hamza Khadri est propriétaire des droits de propriété intellectuelle ou "
+"détient les droits d’usage sur tous les éléments accessibles sur le site, "
+"notamment les textes, images, graphismes, logo, icônes, sons, logiciels."
+msgstr ""
+"Hamza Khadri bezit de intellectuele eigendomsrechten of bezit de rechten om "
+"alle elementen die beschikbaar zijn op de site te gebruiken, inclusief "
+"tekst, afbeeldingen, grafische afbeeldingen, logo's, pictogrammen, geluiden, "
+"software."
+
+#: cgu.php:59
+msgid ""
+"Toute reproduction, représentation, modification, publication, adaptation de "
+"tout ou partie des éléments du site, quel que soit le moyen ou le procédé "
+"utilisé, est interdite, sauf autorisation écrite préalable de : Hamza Khadri."
+msgstr ""
+"Elke reproductie, weergave, wijziging, publicatie, aanpassing van alle of "
+"een deel van de elementen van de site, ongeacht het gebruikte middel of "
+"proces, is verboden zonder de voorafgaande schriftelijke toestemming van: "
+"Hamza Khadri."
+
+#: cgu.php:60
+msgid ""
+"Toute exploitation non autorisée du site ou de l’un quelconque des éléments "
+"qu’il contient sera considérée comme constitutive d’une contrefaçon et "
+"poursuivie conformément aux dispositions des articles L.335-2 et suivants du "
+"Code de Propriété Intellectuelle."
+msgstr ""
+"Elk ongeoorloofd gebruik van de site of een van de elementen ervan, wordt "
+"beschouwd als een inbreuk en vervolgd in overeenstemming met de bepalingen "
+"van de artikelen L.335-2 en volgende van het Wetboek van Intellectuele "
+"Eigendom."
+
+#: cgu.php:64
+msgid ""
+"Hamza Khadri ne pourra être tenue responsable des dommages directs et "
+"indirects causés au matériel de l’utilisateur, lors de l’accès au site www."
+"comenity.be, et résultant soit de l’utilisation d’un matériel ne répondant "
+"pas aux spécifications indiquées au point 4, soit de l’apparition d’un bug "
+"ou d’une incompatibilité."
+msgstr ""
+"Hamza Khadri kan niet aansprakelijk worden gesteld voor directe of indirecte "
+"schade aan de apparatuur van de gebruiker bij het bezoeken van de site www."
+"comenity.be en als gevolg van het gebruik van apparatuur die niet voldoet "
+"aan de opgegeven specificaties. in punt 4, het uiterlijk van een bug of een "
+"incompatibiliteit."
+
+#: cgu.php:65
+msgid ""
+"Hamza Khadri ne pourra également être tenue responsable des dommages "
+"indirects (tels par exemple qu’une perte de marché ou perte d’une chance) "
+"consécutifs à l’utilisation du site www.comenity.be."
+msgstr ""
+"Hamza Khadri kan niet aansprakelijk worden gesteld voor gevolgschade (zoals "
+"bijvoorbeeld verlies van marktwaarde of verlies van kansen) als gevolg van "
+"het gebruik van de site www.comenity.be."
+
+#: cgu.php:66
+msgid ""
+"Des espaces interactifs (possibilité de poser des questions dans l’espace "
+"contact) sont à la disposition des utilisateurs. Hamza Khadri se réserve le "
+"droit de supprimer, sans mise en demeure préalable, tout contenu déposé dans "
+"cet espace qui contreviendrait à la législation applicable en France, en "
+"particulier aux dispositions relatives à la protection des données. Le cas "
+"échéant, Hamza Khadri se réserve également la possibilité de mettre en cause "
+"la responsabilité civile et/ou pénale de l’utilisateur, notamment en cas de "
+"message à caractère raciste, injurieux, diffamant, ou pornographique, quel "
+"que soit le support utilisé (texte, photographie…)."
+msgstr ""
+"Interactieve ruimtes (mogelijkheid om vragen te stellen in het "
+"contactgebied) zijn beschikbaar voor gebruikers. Hamza Khadri behoudt zich "
+"het recht voor om zonder voorafgaande kennisgeving inhoud te verwijderen die "
+"in deze ruimte is geplaatst en die de toepasselijke wetgeving in Frankrijk "
+"zou schenden, met name de bepalingen over gegevensbescherming. Indien van "
+"toepassing behoudt Hamza Khadri zich ook het recht voor om de burgerlijke "
+"en / of strafrechtelijke aansprakelijkheid van de gebruiker in twijfel te "
+"trekken, met name in het geval van een racistisch, beledigend, lasterlijk of "
+"pornografisch bericht, ongeacht het gebruikte medium ( tekst, "
+"fotografie ...)."
+
+#: cgu.php:69
+msgid "Carnet de bord"
+msgstr "Dashboard"
+
+#: cgu.php:70
+msgid ""
+"Le site www.comenity.be contient un certain nombre de liens hypertextes vers "
+"d’autres sites, mis en place avec l’autorisation de Hamza Khadri. Cependant, "
+"Hamza Khadri n’a pas la possibilité de vérifier le contenu des sites ainsi "
+"visités, et n’assumera en conséquence aucune responsabilité de ce fait."
+msgstr ""
+"De site www.comenity.be bevat een aantal hyperlinks naar andere sites, "
+"opgezet met toestemming van Hamza Khadri. Hamza Khadri heeft echter niet de "
+"mogelijkheid om de inhoud van de bezochte sites te controleren en aanvaardt "
+"daarom geen aansprakelijkheid voor dit feit."
+
+#: cgu.php:71
+msgid ""
+"La navigation sur le site www.comenity.be est susceptible de provoquer "
+"l’installation de cookie(s) sur l’ordinateur de l’utilisateur. Un cookie est "
+"un fichier de petite taille, qui ne permet pas l’identification de "
+"l’utilisateur, mais qui enregistre des informations relatives à la "
+"navigation d’un ordinateur sur un site. Les données ainsi obtenues visent à "
+"faciliter la navigation ultérieure sur le site, et ont également vocation à "
+"permettre diverses mesures de fréquentation."
+msgstr ""
+"Bladeren door de site www.comenity.be kan de installatie van cookie (s) op "
+"de computer van de gebruiker veroorzaken. Een cookie is een klein bestand "
+"dat de identificatie van de gebruiker niet toestaat, maar dat informatie "
+"registreert met betrekking tot de navigatie van een computer op een site. De "
+"aldus verkregen gegevens zijn bedoeld om latere navigatie op de site te "
+"vergemakkelijken en zijn ook bedoeld om verschillende aanwezigheidsmeldingen "
+"mogelijk te maken."
+
+#: cgu.php:72
+msgid ""
+"Le refus d’installation d’un cookie peut entraîner l’impossibilité d’accéder "
+"à certains services. L’utilisateur peut toutefois configurer son ordinateur "
+"de la manière suivante, pour refuser l’installation des cookies :"
+msgstr ""
+"De weigering om een cookie te installeren kan het onmogelijk maken om "
+"toegang te krijgen tot bepaalde diensten. De gebruiker kan zijn computer "
+"echter als volgt configureren om de installatie van cookies te weigeren:"
+
+#: cgu.php:73
+msgid ""
+"Sous Internet Explorer : onglet outil (pictogramme en forme de rouage en "
+"haut a droite) / options internet. Cliquez sur Confidentialité et choisissez "
+"Bloquer tous les cookies. Validez sur Ok."
+msgstr ""
+"In Internet Explorer: tooltab (pictogram in de vorm van een tandwiel in de "
+"rechterbovenhoek) / internetopties. Klik op Privacy en kies Alle cookies "
+"blokkeren. Valideer op Ok."
+
+#: cgu.php:74
+msgid ""
+"Sous Firefox : en haut de la fenêtre du navigateur, cliquez sur le bouton "
+"Firefox, puis aller dans l'onglet Options. Cliquer sur l'onglet Vie privée. "
+"Paramétrez les Règles de conservation sur : utiliser les paramètres "
+"personnalisés pour l'historique. Enfin décochez-la pour désactiver les "
+"cookies."
+msgstr ""
+"In Firefox: klik boven aan het browservenster op de knop Firefox en ga "
+"vervolgens naar het tabblad Opties. Klik op het tabblad Privacy. Stel de "
+"bewaarregels in op: gebruik aangepaste instellingen voor geschiedenis. "
+"Verwijder het vinkje om cookies uit te schakelen."
+
+#: cgu.php:75
+msgid ""
+"Sous Safari : Cliquez en haut à droite du navigateur sur le pictogramme de "
+"menu (symbolisé par un rouage). Sélectionnez Paramètres. Cliquez sur "
+"Afficher les paramètres avancés. Dans la section 'Confidentialité', cliquez "
+"sur Paramètres de contenu. Dans la section 'Cookies', vous pouvez bloquer "
+"les cookies."
+msgstr ""
+"Onder Safari: klik op de rechterbovenhoek van de browser op het "
+"menupictogram (gesymboliseerd door een tandwiel). Selecteer Instellingen. "
+"Klik op Geavanceerde instellingen weergeven. Klik in het gedeelte 'Privacy' "
+"op Instellingen voor inhoud. In het gedeelte 'Cookies' kunt u cookies "
+"blokkeren."
+
+#: cgu.php:76
+msgid ""
+"Sous Chrome : Cliquez en haut à droite du navigateur sur le pictogramme de "
+"menu (symbolisé par trois lignes horizontales). Sélectionnez Paramètres. "
+"Cliquez sur Afficher les paramètres avancés. Dans la section "
+"'Confidentialité', cliquez sur préférences. Dans l'onglet 'Confidentialité', "
+"vous pouvez bloquer les cookies."
+msgstr ""
+"Onder Chrome: klik in de rechterbovenhoek van de browser op het "
+"menupictogram (gesymboliseerd door drie horizontale lijnen). Selecteer "
+"Instellingen. Klik op Geavanceerde instellingen weergeven. Klik in het "
+"gedeelte 'Privacy' op Voorkeuren. Op het tabblad 'Privacy' kun je cookies "
+"blokkeren."
+
+#: contact.php:17 include/footer.php:3
+msgid "Contactez-nous"
+msgstr "Neem contact met ons"
+
+#: contact.php:21
+msgid "Comment nous retrouver ?"
+msgstr "Hoe ons te vinden?"
+
+#: contact.php:39
+msgid "Envoyer"
+msgstr "Leg voor"
+
+#: faq.php:7 include/menu.php:12
+msgid "FAQ"
+msgstr "FAQ"
+
+#: faq.php:17
+msgid "Avez-vous des questions ?"
+msgstr "Heb je vragen?"
+
+#: faq.php:20 faq.php:27
+msgid "Général"
+msgstr "Algemeenheden"
+
+#: faq.php:21
+msgid "Tuteurs"
+msgstr "Tutors"
+
+#: faq.php:22 faq.php:73
+msgid "Étudiants"
+msgstr "Students"
+
+#: faq.php:23 faq.php:96
+msgid "Autres"
+msgstr "Anderen"
+
+#: faq.php:29 faq.php:75
+msgid "Comment puis-je trouver un tuteur ?"
+msgstr "Hoe kan ik een tutor vinden?"
+
+#: faq.php:30 faq.php:76
+msgid ""
+"C’est simple ! La recherche de tuteur se fait depuis le moteur de recherche "
+"(l'icone de la loupe dans le menu). Sélectionnez votre matière, votre ville "
+"ou votre lieu d'étude, et hop ! Des milliers de tuteurs fantastiques, "
+"disponibles et proche de chez vous. Une fois le tuteur sélectionné, vous "
+"pourrez le contacter en cliquant sur le bouton « contacter », en bas de son "
+"profil."
+msgstr ""
+"Het is eenvoudig! De tutor-zoekopdracht wordt gedaan via de zoekmachine (het "
+"vergrootglaspictogram in het menu). Selecteer uw onderwerp, uw stad of uw "
+"plaats van studie, en presto! Duizenden fantastische tutoren, beschikbaar en "
+"dichtbij jou. Zodra de tutor is geselecteerd, kun je contact met hem opnemen "
+"door op de knop \"contact\" onder aan zijn profiel te klikken."
+
+#: faq.php:33 faq.php:52
+msgid "Est-ce gratuit ?"
+msgstr "Is het gratis ?"
+
+#: faq.php:34 faq.php:53
+msgid "L'inscription chez Comenity est totalement gratuit."
+msgstr "Registratie bij Comenity is volledig gratis."
+
+#: faq.php:37 faq.php:56
+msgid "Je souhaite commencer à accompagner un étudiant, comment m’y prendre ?"
+msgstr "Ik wil een student gaan begeleiden, hoe kan ik het doen?"
+
+#: faq.php:38 faq.php:57
+msgid ""
+"Pour bénéficier de notre réseau d'étudiant (plus de 60 000 recherches "
+"d'élèves par jour), nous vous invitons à déposer votre annonce. Si vous avez "
+"déjà créé un compte chez nous, vous pouvez publier votre première annonce. "
+"Afin de mettre toutes les chances de votre côté, nous vous conseillons de "
+"prendre le temps de rédiger une annonce complète, de mettre une photo en "
+"portrait pour illustrer votre annonce et de demander des recommandations à "
+"vos proches. En effet, un profil complet avec photo a 100 fois plus de "
+"chances d'être sollicité. Comenity vous permet de travailler librement et de "
+"fixer vos propres tarifs sur lesquels nous ne prenons aucune commission."
+msgstr ""
+"Om te profiteren van ons studentennetwerk (meer dan 60.000 zoekopdrachten "
+"van studenten per dag), nodigen we u uit om uw advertentie in te dienen. Als "
+"u al een account bij ons hebt aangemaakt, kunt u uw eerste advertentie "
+"publiceren. Om je de kans te geven, raden we je aan de tijd te nemen om een "
+"volledige aankondiging te schrijven, een foto in portret te plaatsen om je "
+"advertentie te illustreren en om aanbevelingen aan je dierbaren te vragen. "
+"Inderdaad, een volledig profiel met foto heeft 100 keer meer kans om te "
+"worden gevraagd. Comenity stelt u in staat om vrij te werken en uw eigen "
+"tarieven vast te stellen waarop wij geen commissie nemen."
+
+#: faq.php:41
+msgid ""
+"Comment être sûr que mon tuteur peut assurer la matière où j’ai des lacunes ?"
+msgstr "Hoe weet ik zeker dat mijn mentor de les kan leren waar ik hiaten heb?"
+
+#: faq.php:42
+msgid ""
+"Un système est établi pour que le tuteur précise la matière qu'il peut "
+"accompagner, mais aussi les études et la haute école/l'université "
+"concernant. De plus, chaque tuteur se voit attribuer une note par l'étudiant "
+"en fonction de la qualité de suivi du tuteur."
+msgstr ""
+"Er wordt een systeem opgezet zodat de tutor het onderwerp aangeeft dat hij "
+"kan begeleiden, maar ook de studies en de middelbare school / universiteit "
+"betreffen. Bovendien krijgt elke docent een cijfer toegewezen door de "
+"student op basis van de kwaliteit van de tutor voor de follow-up."
+
+#: faq.php:46
+msgid "Tuteur"
+msgstr "Tutor"
+
+#: faq.php:48
+msgid "Qui peut s'inscrire chez Comenity, et peut-être suivre un étudiant ?"
+msgstr "Wie kan zich bij Comenity registreren en misschien een student volgen?"
+
+#: faq.php:49
+msgid ""
+"Nous avons tous quelque chose à enseigner et à transmettre. Étudiants, "
+"enseignants, autodidactes, passionnés, diplômés, professionnels... Rejoignez "
+"la communauté des Super Professeurs ! On vous attend."
+msgstr ""
+"We hebben allemaal iets om te onderwijzen en door te geven. Studenten, "
+"docenten, autodidacten, gedreven, afgestudeerden, professionals ... Word lid "
+"van de gemeenschap van superprofessoren! We wachten op je."
+
+#: faq.php:60
+msgid "Comment choisir mon tarif et par qui serai-je payé ?"
+msgstr "Hoe kies ik mijn tarief en door wie wordt ik betaald?"
+
+#: faq.php:61
+msgid ""
+"Vous définissez vous-même le tarif de vos cours en fonction de votre "
+"formation, votre expérience, de la concurrence et donc du marché dans votre "
+"secteur. Le règlement de vos cours et ses modalités est à voir directement "
+"avec les élèves qui vous contactent."
+msgstr ""
+"U bepaalt zelf de prijs van uw cursussen op basis van uw opleiding, uw "
+"ervaring, concurrentie en dus de markt in uw sector. De regels van je "
+"cursussen en de modaliteiten ervan zijn direct zichtbaar voor de studenten "
+"die contact met je opnemen."
+
+#: faq.php:64
+msgid "Je ne parviens pas à importer mon CV, comment faire ?"
+msgstr "Ik kan mijn cv niet importeren, hoe te doen ?"
+
+#: faq.php:65
+msgid ""
+"L'importation d'un CV est limité à un poids de 2Mo et de type PDF. Si vous "
+"ne parvenez toujours pas à importer votre CV, vous pouvez toujours nous "
+"l'envoyer par mail."
+msgstr ""
+"Het importeren van een CV is beperkt tot een gewicht van 2MB en PDF-type. "
+"Als u uw cv nog steeds niet kunt importeren, kunt u dit altijd per e-mail "
+"naar ons verzenden."
+
+#: faq.php:68 faq.php:91
+msgid "Comment supprimer mon profil ?"
+msgstr "Hoe mijn profiel te verwijderen?"
+
+#: faq.php:69 faq.php:92
+msgid ""
+"Si vous souhaitez supprimer votre profil sur Superprof, connectez-vous "
+"directement à celui-ci. Nous espérons vous revoir bientôt sur Comenity."
+msgstr ""
+"Als u uw profiel op Superprof wilt verwijderen, maakt u er rechtstreeks "
+"verbinding mee. We hopen je snel weer te zien op Comenity."
+
+#: faq.php:79
+msgid ""
+"Cela ne s’est pas passé comme je le souhaitais avec mon professeur, que "
+"faire ?"
+msgstr "Dit gebeurde niet zoals ik wilde met mijn leraar, wat te doen?"
+
+#: faq.php:80
+msgid ""
+"Vous pouvez contacter autant de professeurs que vous le souhaitez. Vous "
+"pouvez donc encore trouver le professeur parfait ! L’équipe de Comenity est "
+"là pour vous. Décrivez-nous votre situation par mail, nous reviendrons vers "
+"vous au plus vite."
+msgstr ""
+"U kunt zoveel leraren contacteren als u wilt. Je kunt dus nog steeds de "
+"perfecte leraar vinden! Het Comenity-team is er voor je. Beschrijf uw "
+"situatie per post, wij nemen zo snel mogelijk contact met u op."
+
+#: faq.php:83
+msgid "Je n’ai pas encore reçu de réponse de mon tuteur"
+msgstr "Ik heb nog geen reactie ontvangen van mijn tutor"
+
+#: faq.php:84
+msgid ""
+"Lorsque le tuteur dépasse son temps de réponse habituel, notre équipe le "
+"contacte afin qu’il vous réponde au plus vite."
+msgstr ""
+"Wanneer de tutor zijn gebruikelijke responstijd overschrijdt, neemt ons team "
+"contact met hem op om je zo snel mogelijk te antwoorden."
+
+#: faq.php:87
+msgid "Je ne parviens pas à ajouter une photo sur mon profil"
+msgstr "Ik kan geen foto toevoegen aan mijn profiel"
+
+#: faq.php:88
+msgid ""
+"Si vous n’arrivez pas à ajouter votre photo sur votre profil, vous pouvez "
+"nous la joindre depuis votre tableau de bord."
+msgstr ""
+"Als u uw foto niet aan uw profiel kunt toevoegen, kunt u ons via uw "
+"dashboard bereiken."
+
+#: faq.php:98
+msgid ""
+"Besoin d'aide ? Une idée de génie à partager avec nous ou une irrésistible "
+"envie d'en savoir plus sur l'aventure Comenity ?"
+msgstr ""
+"Hulp nodig? Een idee van genialiteit om met ons te delen of een "
+"onweerstaanbare wens om meer te weten over het avontuur Comenity?"
+
+#: faq.php:99
+msgid ""
+"Ecrivez-nous un message par la page de contact. Notre équipe vous répond par "
+"mail, par nos divers réseaux sociaux, etc."
+msgstr ""
+"Schrijf ons een bericht via de contactpagina. Ons team beantwoordt u per e-"
+"mail, onze verschillende sociale netwerken, enz."
+
+#: faq.php:102
+msgid ""
+"Vous souhaitez rejoindre l'aventure Comenity et changer soignez nos "
+"étudiants par le partage ?"
+msgstr ""
+"Wil je meedoen aan het Comenity-avontuur en verandering zorgen voor onze "
+"studenten door ze te delen?"
+
+#: faq.php:103
+msgid "Envoyez-nous votre plus belle candidature à l'adresse info@comenity.be"
+msgstr "Stuur ons je mooiste applicatie op info@comenity.be"
+
+#: include/footer.php:8
+msgid "Du lundi au vendredi"
+msgstr "Maandag tot vrijdag"
+
+#: include/footer.php:9
+msgid "de 9h à 18h"
+msgstr "van 9u tot 18u"
+
+#: include/footer.php:21
+msgid "Tous droits réservés"
+msgstr "Alle rechten voorbehouden"
+
+#: include/menu.php:22
+msgid "Contact"
+msgstr "Contact"
+
+#: include/register-login.php:5
+msgid "Inscris-toi, c'est gratuit!"
+msgstr "Meld je aan, het is gratis!"
+
+#: include/register-login.php:8
+msgid "Deviens membre, et accompagne les étudiants dans leurs réussites"
+msgstr "Word lid en begeleid studenten bij hun successen"
+
+#: include/register-login.php:11 include/register-login.php:28
+msgid " Adresse e-mail "
+msgstr " E-mailadres "
+
+#: include/register-login.php:12
+msgid " Confirmer l 'adresse e-mail"
+msgstr " Bevestig e-mailadres "
+
+#: include/register-login.php:13
+msgid "Mot de passe"
+msgstr "Wachtwoord"
+
+#: include/register-login.php:14
+msgid "Confirmer le mot de passe"
+msgstr "Bevestig wachtwoord"
+
+#: include/register-login.php:15
+msgid ""
+"J'ai lu et accepté les conditions générales d 'utilisation, ainsi que le "
+"reste de l'ensemble des mentions légales. "
+msgstr ""
+"Ik heb de algemene gebruiksvoorwaarden gelezen en aanvaard, evenals de rest "
+"van alle wettelijke kennisgevingen. "
+
+#: include/register-login.php:16
+msgid "Je m'inscris !"
+msgstr "Ik registreer!"
+
+#: include/register-login.php:18
+msgid "Déjà membre ? Connecte-toi !"
+msgstr "Ben je al lid? Meld u aan!"
+
+#: include/register-login.php:23
+msgid "Connexion"
+msgstr "Verbinding"
+
+#: include/register-login.php:26
+msgid "Pas encore membre ?"
+msgstr "Nog geen lid?"
+
+#: include/register-login.php:26
+msgid "Inscris-toi !"
+msgstr "Registreer nu!"
+
+#: include/register-login.php:29
+msgid " Mot de passe "
+msgstr " Wachtwoord "
+
+#: include/register-login.php:30
+msgid " Envoyer "
+msgstr " Leg voor "
+
+#: index.php:26
+msgid "Soutenons-nous par le partage."
+msgstr "Wij ondersteunen door te delen."
+
+#: index.php:28
+msgid "Deviens tuteur dès aujourd'hui !"
+msgstr "Word vandaag nog een tutor!"
+
+#: index.php:32
+msgid "Voir le film"
+msgstr "Bekijk de film"
+
+#: index.php:42
+msgid ""
+"Comenity est un plateforme belge pour les étudiants de hautes écoles et "
+"d'universités qui souhaite être accompagné d'un tuteur. Finis les examens et/"
+"ou les travaux pendant les vacances, vous pouvez désormais trouver la perle "
+"rare parmis nos membres tuteurs."
+msgstr ""
+"Comenity is een Belgisch platform voor universitaire en universitaire "
+"studenten die zich willen laten begeleiden door een tutor. Geen examens meer "
+"en / of werk tijdens de vakantie, u kunt nu de zeldzame parel onder onze "
+"docenten vinden."
+
+#: index.php:50
+msgid "Nos services"
+msgstr "Onze diesten"
+
+#: index.php:56
+msgid "Motivés !"
+msgstr "Gemotiveerd!"
+
+#: index.php:59
+msgid ""
+"Nos tuteurs ont la convictions d'aider les étudiants dans leurs études et "
+"leurs projets scolaires/universitaires."
+msgstr ""
+"Onze docenten hebben de overtuigingen om studenten te helpen bij hun studie "
+"en bij hun school / universiteitsprojecten."
+
+#: index.php:65
+msgid "Approuvés !"
+msgstr "Goedgekeurd!"
+
+#: index.php:68
+msgid ""
+"Chacun de nos tuteurs ont leurs convictions et donc leurs bagages pour "
+"permettre leurs accompagnements."
+msgstr ""
+"Elk van onze voogden heeft hun overtuigingen en dus hun bagage om hun "
+"begeleidingen toe te staan."
+
+#: index.php:73
+msgid "Confiants !"
+msgstr "Verzekerd!"
+
+#: index.php:76
+msgid ""
+"Primordial. La réussite d'un étudiant dans leurs parcours est assurés par "
+"nos tuteurs, aussi bien pour les étudiants que pour ses professeurs."
+msgstr ""
+"Primordiaal. Het succes van een student in zijn carrière wordt geleverd door "
+"onze docenten, zowel voor studenten als voor zijn leraren."
+
+#: index.php:84
+msgid "Nos tuteurs"
+msgstr "Onze tutors"
+
+#: index.php:92 index.php:112 index.php:132 index.php:152 profil.php:43
+msgid "Mathématique"
+msgstr "Wiskunde"
+
+#: index.php:102 index.php:122 index.php:142 index.php:162 search.php:42
+msgid "Consulter"
+msgstr "Bekijken"
+
+#: php-gettext-1.0.12/examples/pigs_dropin.php:77
+#: php-gettext-1.0.12/examples/pigs_fallback.php:76
+msgid ""
+"This is how the story goes.\n"
+"\n"
+msgstr ""
+"Dit is hoe het verhaal gaat.\n"
+"\n"
+
+#: profil.php:20
+msgid "Coordonnées"
+msgstr "Contact"
+
+#: profil.php:22
+msgid "ans"
+msgstr "jaar oud"
+
+#: profil.php:26
+msgid "heure"
+msgstr "uur"
+
+#: profil.php:27
+msgid "Week-ends"
+msgstr "Weekend"
+
+#: profil.php:27
+msgid "vacances d'été"
+msgstr "zomervakantie"
+
+#: profil.php:35
+msgid "Télécharger le CV"
+msgstr "Download het CV"
+
+#: profil.php:36
+msgid "Signaler"
+msgstr "Melden"
+
+#: profil.php:43
+msgid "pour les étudiants en"
+msgstr "voor students in"
+
+#: profil.php:51
+msgid "Contacter"
+msgstr "Contacteren"
+
+#: search.php:7
+msgid "Recherche"
+msgstr "Zoeken"
+
+#: search.php:17
+msgid "Que recherchez-vous ?"
+msgstr "Waar zoek je naar?"
+
+#: search.php:18
+msgid "Recherche par matière"
+msgstr "Zoeken op onderwerp"
+
+#: search.php:19
+msgid "Recherche par lieu d'étude"
+msgstr "Zoeken op middelbare school/universiteit"
+
+#: search.php:20 search.php:30
+msgid "Dans les alentours de"
+msgstr "In de omgeving van"
+
+#: search.php:30
+msgid "Nos tuteurs pour des cours de"
+msgstr "Onze tutors voor"
+
+#: search.php:30
+msgid "à"
+msgstr "op"
+
+#: src/modernizr-custom.js:3
+msgid ""
+"#modernizr div {width:100px} #modernizr div ~ div {width:200px;display:block}"
+msgstr ""
+
+#: src/modernizr-custom.js:3
+msgid "#modernizr form{position:absolute;top:-99999em}"
+msgstr ""
+
+#~ msgid "Une communauté d'entraide pour étudiants."
+#~ msgstr "Een gemeenschap van ondersteuning voor studenten."
